@@ -1,5 +1,5 @@
 {
-    "name": "Getting Started Example",
+    "name": "My Extension",
     "version": "1.0",
     "browser_action": {
         "default_popup": "hello.html"
